@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "osda0NEJU0sO+8YfX/PjbTmNm7UCgSnxRAt2kBcmapk=",
+  "Source": "PetsApiBackend",
+  "BasePath": "_content/PetsApiBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

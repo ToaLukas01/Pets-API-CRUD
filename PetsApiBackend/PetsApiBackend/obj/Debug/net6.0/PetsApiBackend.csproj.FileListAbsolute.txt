@@ -1,0 +1,136 @@
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\appsettings.Development.json
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\appsettings.json
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\PetsApiBackend.exe
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\PetsApiBackend.deps.json
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\PetsApiBackend.runtimeconfig.json
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\PetsApiBackend.dll
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\PetsApiBackend.pdb
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\Humanizer.dll
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\obj\Debug\net6.0\PetsApiBackend.csproj.AssemblyReference.cache
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\obj\Debug\net6.0\PetsApiBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\obj\Debug\net6.0\PetsApiBackend.AssemblyInfoInputs.cache
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\obj\Debug\net6.0\PetsApiBackend.AssemblyInfo.cs
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\obj\Debug\net6.0\PetsApiBackend.csproj.CoreCompileInputs.cache
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\obj\Debug\net6.0\PetsApiBackend.MvcApplicationPartsAssemblyInfo.cs
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\obj\Debug\net6.0\PetsApiBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\obj\Debug\net6.0\staticwebassets\msbuild.PetsApiBackend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\obj\Debug\net6.0\staticwebassets\msbuild.build.PetsApiBackend.props
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PetsApiBackend.props
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PetsApiBackend.props
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\obj\Debug\net6.0\staticwebassets.pack.json
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\obj\Debug\net6.0\staticwebassets.build.json
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\obj\Debug\net6.0\staticwebassets.development.json
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\obj\Debug\net6.0\scopedcss\bundle\PetsApiBackend.styles.css
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\obj\Debug\net6.0\PetsApiBackend.csproj.CopyComplete
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\obj\Debug\net6.0\PetsApiBackend.dll
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\obj\Debug\net6.0\refint\PetsApiBackend.dll
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\obj\Debug\net6.0\PetsApiBackend.pdb
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\obj\Debug\net6.0\PetsApiBackend.genruntimeconfig.cache
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\obj\Debug\net6.0\ref\PetsApiBackend.dll
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\AutoMapper.dll
+C:\PROGRAMACION\PROYECTOS\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\appsettings.Development.json
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\appsettings.json
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\PetsApiBackend.exe
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\PetsApiBackend.deps.json
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\PetsApiBackend.runtimeconfig.json
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\PetsApiBackend.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\PetsApiBackend.pdb
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\AutoMapper.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\Humanizer.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\obj\Debug\net6.0\PetsApiBackend.csproj.AssemblyReference.cache
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\obj\Debug\net6.0\PetsApiBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\obj\Debug\net6.0\PetsApiBackend.AssemblyInfoInputs.cache
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\obj\Debug\net6.0\PetsApiBackend.AssemblyInfo.cs
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\obj\Debug\net6.0\PetsApiBackend.csproj.CoreCompileInputs.cache
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\obj\Debug\net6.0\PetsApiBackend.MvcApplicationPartsAssemblyInfo.cs
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\obj\Debug\net6.0\PetsApiBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\obj\Debug\net6.0\staticwebassets\msbuild.PetsApiBackend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\obj\Debug\net6.0\staticwebassets\msbuild.build.PetsApiBackend.props
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PetsApiBackend.props
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PetsApiBackend.props
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\obj\Debug\net6.0\staticwebassets.pack.json
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\obj\Debug\net6.0\staticwebassets.build.json
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\obj\Debug\net6.0\staticwebassets.development.json
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\obj\Debug\net6.0\scopedcss\bundle\PetsApiBackend.styles.css
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\obj\Debug\net6.0\PetsApiBackend.csproj.CopyComplete
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\obj\Debug\net6.0\PetsApiBackend.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\obj\Debug\net6.0\refint\PetsApiBackend.dll
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\obj\Debug\net6.0\PetsApiBackend.pdb
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\obj\Debug\net6.0\PetsApiBackend.genruntimeconfig.cache
+C:\PROGRAMACION\PROYECTOS\Pets API\PetsApiBackend\PetsApiBackend\obj\Debug\net6.0\ref\PetsApiBackend.dll
